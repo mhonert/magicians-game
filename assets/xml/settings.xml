@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<settings>
+    <screen width="800" height="600" fullscreen="no"/>
+    <language id="1"/>
+    <performance saveEnergy="yes" particlePercent="100" antialiasing="yes" />
+    <timing useHighPerformanceCounter="yes" />
+</settings>

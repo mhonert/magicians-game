@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<translation>
+    <languages count="2">
+        <language id="0" name="english"/>
+        <language id="1" name="Deutsch"/>
+    </languages>
+    <texts>
+        <text code="display mode could not be set">
+            <language id="0">display mode could not be set!</language>
+            <language id="1">Grafikmodus konnte nicht gesetzt werden!</language>
+        </text>
+        <text code="energy">
+            <language id="0">energy</language>
+            <language id="1">Energie</language>
+        </text>
+        <text code="points">
+            <language id="0">points</language>
+            <language id="1">Punkte</language>
+        </text>
+        <text code="bombs">
+            <language id="0">bombs</language>
+            <language id="1">Bomben</language>
+        </text>
+        <text code="level up">
+            <language id="0">Level Up!</language>
+            <language id="1">Levelaufstieg!</language>
+        </text>
+        <text code="game over">
+            <language id="0">Game Over!</language>
+            <language id="1">Spielende!</language>
+        </text>
+	</texts>
+</translation>
